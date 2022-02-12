@@ -1,0 +1,8 @@
+default:
+  datawarehouse:
+    driver: 'Postgres' 
+    server: 'localhost'
+    uid: 'postgres'
+    pwd: 'marsh'  
+    port: 5432
+    database: 'movies'
